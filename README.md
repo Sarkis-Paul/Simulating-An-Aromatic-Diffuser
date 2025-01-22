@@ -1,7 +1,7 @@
 Computing Coursework: Simulating & evaluating the performance of an Aromatic Diffuser
 
 
-A) What physics is this coursework trying to model and analyse?
+# A) What physics is this coursework trying to model and analyse?
 
 The aim of this project is to develop a model for the diffusion of an aromatic diffuser placed at a position 
 (x*,y*,z*)=(1.5, 2, 2) in a 5mx5mx5m room. The quantity of interest is φ, the density of the diffuser mixture (g/cm3) in the room space over time modelled i.e. φ = φ(x,y,z,t) using the diffusion equation based upon the conservation of mass. The diffuser is modelled as a 4cmx4cmx4cm container with 75g of diffuser mixture that vapourises and diffuses out of the bottle over time (this is not a source, as the mass reduces over time).
@@ -9,7 +9,7 @@ The aim of this project is to develop a model for the diffusion of an aromatic d
 A 3-dimensional space model is used over time (instead of 2D) despite the greater computation as it is more representative of the diffusion for the particular required case study.
 
 
-B) This model involves solving the 3D diffusion Partial Differential Equation (PDE) numerically:
+# B) This model involves solving the 3D diffusion Partial Differential Equation (PDE) numerically:
 
   (∂^2 φ)/(∂x^2 )+(∂^2 φ)/(∂y^2 )+  (∂^2 φ)/(∂z^2 )  =1/D   ∂φ/∂t          This is a parabollic PDE
 
@@ -17,7 +17,7 @@ D is the diffusivity of the diffuser in air 106 m2 s1. This is an estimation –
 
 
 
-C) Boundary value and initial values for my specific problem: 
+# C) Boundary value and initial values for my specific problem are:
 Boundary Conditions
 
 ├ ∂φ/∂x┤|_(x=0)=0           ├ ∂φ/∂y┤|_(y=0)=0           ├ ∂φ/∂z┤|_(z=0)=0         Perfume molecules cannot diffuse through the boundary wall (flux is 0)
