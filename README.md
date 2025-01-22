@@ -1,4 +1,4 @@
-# Computing Coursework: Simulating & evaluating the performance of an Aromatic Diffuser
+# Simulating & Evaluating the Performance of an Aromatic Diffuser
 
 
 ## Intoroduction
