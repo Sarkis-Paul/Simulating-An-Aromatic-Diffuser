@@ -2,7 +2,9 @@
 
 # This page is currently under construction. Please review the pdf in this folder for complete details of this project.
 
-[embed]http://example.com/file.pdf](https://github.com/Sarkis-Paul/Simulating-An-Aromatic-Diffuser/blob/main/Model%20Short%20Summary%20Report.pdf[/embed]
+https://github.com/Sarkis-Paul/Simulating-An-Aromatic-Diffuser/blob/main/Model%20Short%20Summary%20Report.pdf
+
+<embed src="https://github.com/Sarkis-Paul/Simulating-An-Aromatic-Diffuser/blob/main/Model%20Short%20Summary%20Report.pdf" type="application/pdf">
 
 ## Intoroduction
 
